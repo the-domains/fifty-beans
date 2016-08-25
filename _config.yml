@@ -1,0 +1,14 @@
+layout_spectrum: 0.3403659106697887
+typography_spectrum: 0.9687874871306121
+color:
+  brandStrength: 0.20637449226342142
+  lightness: 0.9348657419905066
+  saturation: 0.586703855311498
+  rhythmicContrast: 0.4661124690901488
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: fifty beans
