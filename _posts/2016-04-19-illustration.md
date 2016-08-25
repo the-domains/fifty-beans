@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T07:32:32.754Z'
+datePublished: '2016-08-25T07:36:27.870Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
 isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
@@ -24,7 +24,8 @@ author:
   - name: Kate Sierzputowski
     url: 'http://katesierzputowski.com/'
     avatar: {}
-dateModified: '2016-08-25T07:32:32.023Z'
+via: {}
+dateModified: '2016-08-25T07:36:27.369Z'
 title: Illustration
 app_links: []
 publisher:
@@ -41,10 +42,9 @@ description: >-
   everything up.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Illustration</h1><p>As part of his Celestial Series, Chicago-based digital artist David Brodeur rendered an alien world filled with berry-like plants, glowing crystals, and candy shaped orbs that sprout from the ground. Despite their exotic designs, Brodeur relies on common colors of familiar fruits to create this Willy Wonka-esque habitat where you can't help but want to reach out and gobble everything up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6c337dd3c98bcadd87c6b27fd94f1493ae65eb.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6c337dd3c98bcadd87c6b27fd94f1493ae65eb.jpg" /><h1>Illustration</h1><p>As part of his Celestial Series, Chicago-based digital artist David Brodeur rendered an alien world filled with berry-like plants, glowing crystals, and candy shaped orbs that sprout from the ground. Despite their exotic designs, Brodeur relies on common colors of familiar fruits to create this Willy Wonka-esque habitat where you can't help but want to reach out and gobble everything up.</p></article>
